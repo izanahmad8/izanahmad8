@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izanahmad8
+- 👋 Hi, I’m Izan Ahmad pursuing Btech (CSE) from Tulas Institute Dehradun
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...computer science and Engineering
 - 💞️ I’m looking to collaborate on ...
