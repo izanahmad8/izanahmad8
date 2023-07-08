@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Izan Ahmad pursuing Btech (CSE) from Tulas Institute Dehradun
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...computer science and Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning javascript
 
 <!---
 izanahmad8/izanahmad8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
