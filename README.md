@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Food Delivery App<br>👯 I’m looking to collaborate on Exciting projects that combine programming, or innovative tech solutions that need a creative touch!<br>🌱 I’m currently learning Advance Data Structure <br>💬 Ask me about DSA and Web Development<br>📫 How to reach me izan.khan596@gmail.com<br>⚡ Fun fact I'm a programmer who loves to sing, balancing logic with melody!
+🔭 I’m currently working on Inventory Management App<br>👯 I’m looking to collaborate on Exciting projects that combine programming, or innovative tech solutions that need a creative touch!<br>🌱 I’m currently learning Advance Data Structure <br>💬 Ask me about DSA and Web Development<br>📫 How to reach me izan.khan596@gmail.com<br>⚡ Fun fact I'm a programmer who loves to sing, balancing logic with melody!
 
 
 ## 🌐 Socials:
